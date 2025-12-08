@@ -45,10 +45,10 @@ Stay connected on [slack](https://cloud-native.slack.com/archives/C016M1MM5AS)
 ## 🏗️ Maintainers
 
 Cloud Native Belgium Organizers:
-- Cédric Verstraeten
-- Pieter Lewyllie
-- Evelien Schellekens
-- Dieter Adant
+- [Cédric Verstraeten](https://www.linkedin.com/in/cedricverstraeten/)
+- [Pieter Lewyllie](https://www.linkedin.com/in/plewyllie/)
+- [Evelien Schellekens](https://www.linkedin.com/in/evelien-schellekens/)
+- [Dieter Adant](https://www.linkedin.com/in/dieter-adant/)
 
 ## 🛡️ License
 
